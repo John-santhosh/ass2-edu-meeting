@@ -57,8 +57,9 @@ section:first-child{
 section:nth-child(2){
     /* margin-top: 3rem; */
     background-color: rgba(255, 255, 255, 0.184);
-    position: sticky;
-    top: 0;
+    position: fixed;
+    width: 100%;
+    top: 3rem;
     z-index: 10;
 }
 .nav{
