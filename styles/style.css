@@ -669,6 +669,12 @@ section:nth-child(8){
     color: #fff;
     margin-left: .8rem;
 }
+input:focus{
+    outline:1px solid #A12C2F;
+}
+textarea:focus{
+    outline:1px solid #A12C2F;
+}
 
                                                                 /* footer */
 footer{
